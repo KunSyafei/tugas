@@ -53,6 +53,10 @@ Object digunakan untuk menyimpan banyak data dalam satu variabel dengan pasangan
 Boolean hanya memiliki dua nilai:
 true (benar) atau false (salah).
 
+13.Hello world
 
-perbedaan switch dan if expresssion
+Kalimat “Hello World” biasanya digunakan sebagai contoh pertama saat belajar bahasa pemrograman.
+
+
+14.perbedaan switch dan if expresssion
 if digunakan untuk kondisi logika yang kompleks, sedangkan switch hanya membandinkan kesetaraan
